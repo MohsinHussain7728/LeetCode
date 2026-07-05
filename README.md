@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohsinHussain7728/LeetCode/tree/master/0001-two-sum) |
+| [0724-find-pivot-index](https://github.com/MohsinHussain7728/LeetCode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/MohsinHussain7728/LeetCode/tree/master/0044-wildcard-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/MohsinHussain7728/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
