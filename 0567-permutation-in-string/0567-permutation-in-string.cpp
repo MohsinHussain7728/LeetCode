@@ -1,17 +1,30 @@
 class Solution {
 public:
-    bool checkInclusion(string s1, string s2) {
+    bool checkInclusion(string s1, string s2) {//TC->O(n+m) ,, SC->O(26)
         int n = s1.length();
         int m = s2.length();
 
-        sort(s1.begin(), s1.end());
+        vector<int> hash1(26,0);
+        vector<int> hash2(26,0);
 
-        for(int i=0; i<m; i++){
-            string str = s2.substr(i,n);
-            sort(str.begin() , str.end());
+        for(char &ch : s1){//O(n)
+            hash1[ch-'a']++;
+        }
 
-            if(s1 == str)
+        int l=0, r=0;
+
+        while(r<m){//O(m)
+            hash2[s2[r] - 'a']++;
+            
+            if(r-l+1 > n){
+                hash2[s2[l] - 'a']--;
+                l++;
+            }
+
+            if(hash1 == hash2)
                 return true;
+
+            r++;
         }
 
         return false;
