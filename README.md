@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MohsinHussain7728/LeetCode/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/MohsinHussain7728/LeetCode/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/MohsinHussain7728/LeetCode/tree/master/0567-permutation-in-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MohsinHussain7728/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/MohsinHussain7728/LeetCode/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/MohsinHussain7728/LeetCode/tree/master/0409-longest-palindrome) |
+| [0567-permutation-in-string](https://github.com/MohsinHussain7728/LeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohsinHussain7728/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/MohsinHussain7728/LeetCode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/MohsinHussain7728/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
