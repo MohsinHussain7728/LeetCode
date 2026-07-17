@@ -27,28 +27,33 @@ public:
 
         //3 States :-> (idx,buy,trades left);
         // vector<vector<vector<int>>>dp(n,vector<vector<int>>(2,vector<int>(3,-1)));
-        vector<vector<vector<int>>>dp(n+1,vector<vector<int>>(2,vector<int>(3,0)));
+        vector<vector<int>>ahead(2,vector<int>(3,0));
         
         //Base Case: dp array is already initialized to 0 -> covering all the base cases.
 
         //Changing Params
+        
         for(int idx = n-1; idx>=0; idx--){
+            vector<vector<int>>curr(2,vector<int>(3,0));
+            
             for(int buy=0; buy<2; buy++){
                 for(int cap=1; cap<3; cap++){
                     if(buy == 1){
-                        dp[idx][buy][cap] = max(-prices[idx] + dp[idx+1][0][cap] ,
-                                            0 + dp[idx+1][1][cap]);
+                        curr[buy][cap] = max(-prices[idx] + ahead[0][cap] ,
+                                            0 + ahead[1][cap]);
                     }
                     else{
-                        dp[idx][buy][cap] = max(prices[idx] + dp[idx+1][1][cap-1] ,
-                                            0 + dp[idx+1][0][cap]);
+                        curr[buy][cap] = max(prices[idx] + ahead[1][cap-1] ,
+                                            0 + ahead[0][cap]);
                     }
                 }
             }
+            ahead = curr;
         }
+        
 
 
-        return dp[0][1][2];
+        return ahead[1][2];
 
 
         // return solve(0,1,2,prices,n,dp);
