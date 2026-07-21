@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MohsinHussain7728/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MohsinHussain7728/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/MohsinHussain7728/LeetCode/tree/master/0724-find-pivot-index) |
+| [1260-shift-2d-grid](https://github.com/MohsinHussain7728/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/MohsinHussain7728/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MohsinHussain7728/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/MohsinHussain7728/LeetCode/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/MohsinHussain7728/LeetCode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/MohsinHussain7728/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
