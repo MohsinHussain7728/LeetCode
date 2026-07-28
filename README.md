@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/MohsinHussain7728/LeetCode/tree/master/0044-wildcard-matching) |
+| [0125-valid-palindrome](https://github.com/MohsinHussain7728/LeetCode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/MohsinHussain7728/LeetCode/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/MohsinHussain7728/LeetCode/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MohsinHussain7728/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/MohsinHussain7728/LeetCode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/MohsinHussain7728/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
