@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MohsinHussain7728/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/MohsinHussain7728/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MohsinHussain7728/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/MohsinHussain7728/LeetCode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/MohsinHussain7728/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/MohsinHussain7728/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MohsinHussain7728/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MohsinHussain7728/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MohsinHussain7728/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MohsinHussain7728/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-stone-game](https://github.com/MohsinHussain7728/LeetCode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/MohsinHussain7728/LeetCode/tree/master/0189-rotate-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/MohsinHussain7728/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0877-stone-game](https://github.com/MohsinHussain7728/LeetCode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/MohsinHussain7728/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MohsinHussain7728/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MohsinHussain7728/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -135,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohsinHussain7728/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohsinHussain7728/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohsinHussain7728/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MohsinHussain7728/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
