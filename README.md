@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohsinHussain7728/LeetCode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/MohsinHussain7728/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/MohsinHussain7728/LeetCode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/MohsinHussain7728/LeetCode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/MohsinHussain7728/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
