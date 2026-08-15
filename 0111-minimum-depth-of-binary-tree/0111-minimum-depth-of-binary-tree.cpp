@@ -32,8 +32,10 @@ public:
                 TreeNode* temp = que.front();
                 que.pop();
 
-                if(!temp->left && !temp->right)
+                if(!temp->left && !temp->right){
                     res = min(res,level);
+                    return res;
+                }
 
                 if(temp->left != NULL){
                     que.push(temp->left);
@@ -45,6 +47,6 @@ public:
             }
         }
 
-        return res;
+        return -1;
     }
 };
