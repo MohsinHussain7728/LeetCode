@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MohsinHussain7728/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohsinHussain7728/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -180,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MohsinHussain7728/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohsinHussain7728/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
 ## Stack
 |  |
 | ------- |
