@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohsinHussain7728/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
+| [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Stack
 |  |
 | ------- |
@@ -197,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MohsinHussain7728/LeetCode/tree/master/0836-rectangle-overlap) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
