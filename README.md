@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MohsinHussain7728/LeetCode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/MohsinHussain7728/LeetCode/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/MohsinHussain7728/LeetCode/tree/master/0567-permutation-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MohsinHussain7728/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MohsinHussain7728/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MohsinHussain7728/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Geometry
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MohsinHussain7728/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
