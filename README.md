@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohsinHussain7728/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/MohsinHussain7728/LeetCode/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/MohsinHussain7728/LeetCode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/MohsinHussain7728/LeetCode/tree/master/0409-longest-palindrome) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohsinHussain7728/LeetCode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/MohsinHussain7728/LeetCode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/MohsinHussain7728/LeetCode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohsinHussain7728/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/MohsinHussain7728/LeetCode/tree/master/0046-permutations) |
 ## Tree
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohsinHussain7728/LeetCode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MohsinHussain7728/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MohsinHussain7728/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
