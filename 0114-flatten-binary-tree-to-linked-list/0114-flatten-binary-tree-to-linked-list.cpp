@@ -11,19 +11,24 @@
  */
 class Solution {
 public:
+    void flatten(TreeNode* root) {
+        TreeNode* curr = root;
 
-    TreeNode* prev = NULL;
+        while(curr != NULL){
+            if(curr->left != NULL){
+                TreeNode* prev = curr->left;
 
-    void flatten(TreeNode* root) { // TC->O(n) ,, SC->O(h)
-        if(root == NULL)
-            return;
+                while(prev->right){
+                    prev = prev->right;
+                }
 
-        flatten(root->right);
-        flatten(root->left);
+                prev->right = curr->right;
+                curr->right = curr->left;
 
-        root->left = NULL;
-        root->right=prev;
+                curr->left = nullptr;
+            }
 
-        prev = root;
+            curr = curr->right;
+        }
     }
 };
