@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/MohsinHussain7728/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/MohsinHussain7728/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MohsinHussain7728/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MohsinHussain7728/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohsinHussain7728/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MohsinHussain7728/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MohsinHussain7728/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/MohsinHussain7728/LeetCode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MohsinHussain7728/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
