@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MohsinHussain7728/LeetCode/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/MohsinHussain7728/LeetCode/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/MohsinHussain7728/LeetCode/tree/master/0567-permutation-in-string) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohsinHussain7728/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MohsinHussain7728/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohsinHussain7728/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/MohsinHussain7728/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohsinHussain7728/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/MohsinHussain7728/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohsinHussain7728/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/MohsinHussain7728/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohsinHussain7728/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/MohsinHussain7728/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Stack
 |  |
@@ -241,4 +246,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohsinHussain7728/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Lifting
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## DP on Trees
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
