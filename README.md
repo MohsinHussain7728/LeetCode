@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohsinHussain7728/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/MohsinHussain7728/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MohsinHussain7728/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MohsinHussain7728/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/MohsinHussain7728/LeetCode/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/MohsinHussain7728/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MohsinHussain7728/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MohsinHussain7728/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MohsinHussain7728/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/MohsinHussain7728/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
